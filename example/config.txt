@@ -1,0 +1,2 @@
+Prefix plugins/SuccessRates/example/
+Plugin SuccessRates inputfile parameters.txt outputfile none
